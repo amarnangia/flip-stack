@@ -1,0 +1,10 @@
+amar: 158 
+mohith:   149 
+Mohith:  108 
+amar nan: 2 
+amar: 2 
+bot:  2 
+amar: 2 
+bot: 2 
+person:2 
+bot:0 

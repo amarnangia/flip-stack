@@ -1,0 +1,135 @@
+﻿FlipStack Manual
+
+
+
+
+Instructions:
+*  Use the RIGHT arrow key to move the piece to the right and the LEFT arrow key to move the piece to the left
+* Use the UP arrow key to rotate the piece 
+* Use the DOWN arrow key to increase the speed of the piece as it moves up or down depending on the game mode
+
+
+How to Get Points:
+* Fill up a row with pieces in order to delete that row and gain points (shown below) 
+* As you hold down the down arrow key to speed up you gain points  
+* 6  
+
+
+
+
+
+
+
+
+Difficulties:
+
+
+Normal:
+   * 5 different shaped blocks fall down from the top of the screen
+
+
+
+
+   * You can move these blocks around using the arrow keys (left,right,down) and rotate them using the up arrow key
+
+
+
+
+   * The objective of the game is to prevent the blocks from piling up to the top of the screen
+
+
+
+
+   * Every time you fill in one horizontal line you receive a 100 points,
+        If the blocks fill up to the top of the playing field the game ends
+  
+
+There is just one stack being made
+
+
+Medium:
+   * The blocks will spawn on the bottom of the screen and go up, essentially flipping the playing field
+
+
+
+
+   * Move the block around using the right, left, and down arrow keys and rotate the block using the up arrow key
+
+
+
+
+   * The object of the game is keep the blocks from reaching the bottom of the playing field
+
+
+
+
+   * Every time you fill in one horizontal line you receive a 100 points and the row gets deleted, and
+        if the blocks fill up to the top of the playing field the game ends
+  
+
+There is one stack being made upside down, and the piece is going up
+
+
+    
+Hard:
+   * Blocks will be created in the middle of the screen, and they will either go up or down, creating two separate stacks
+
+
+   * The objective is to prevent the blocks from stacking to the middle
+
+
+   * Whether the block is going up or down the up arrow will rotate it while the down arrow will move it toward the direction the piece is moving.
+
+
+   * This is much harder than levels one and two because you have less space to stack up to, but you also have to focus on two separate patterns at the same time.
+  
+
+There are two separate stacks being made, and the block alternates directions
+
+
+
+
+
+
+
+
+ Game Modes:
+
+
+Infinite:
+   * Choose between the three difficulties
+   * In this game mode you keep playing until you lose
+   * Game ends:
+If the player makes a high score, they will be prompted to type their name, and their name will be saved to the leaderboard.
+
+
+
+
+  
+
+
+
+Campaign:
+   * In this mode you will start on difficulty 1 and keep playing until you complete difficulty 3
+   * As you play complete 2 of the 3 challenges per difficulty listed below:
+   * Difficulty 1:
+   * Reach 5000 points
+   * Delete 35 rows
+   * Reach 8000 points
+   * Difficulty 2:
+   * Reach 8000 points 
+   * Delete 50 rows
+   * Reach 10000 points
+   * Difficulty 3:
+   * Reach 10000 points
+   * Delete 70 rows
+   * Reach 15000 points
+
+
+
+
+Multiplayer: 
+   * In this mode there are 2 players competing against each other
+   * Both players try to obtain the most points before the pieces reach the top. 
+   * If one player has reached the top, the other player still continues to play
+   * When the game is over, whoever has the most points wins
